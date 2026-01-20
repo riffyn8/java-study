@@ -1,4 +1,4 @@
-package 자료구조;
+package datastructure.sequential;
 
 /*
 A(x) =        4x^3 + 3x^2 + 5x
@@ -10,8 +10,6 @@ A(x)와 B(x)의 각 항을 비교하여 지수가 같은 항이 있으면 계수
 지수가 같은 항이 없으면 그대로 C(x)의 항으로 추가한다.
 
 */
-
-import java.io.*;
 
 class Polynomial {
     private int degree; // 최고 차수(지수)

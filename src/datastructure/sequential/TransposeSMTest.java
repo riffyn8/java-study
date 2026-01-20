@@ -1,4 +1,4 @@
-package 자료구조;
+package datastructure.sequential;
 
 // 희소행렬 실습
 /*

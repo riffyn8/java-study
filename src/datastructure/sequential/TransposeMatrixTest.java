@@ -1,4 +1,4 @@
-package 자료구조;
+package datastructure.sequential;
 
 import java.util.Arrays;
 
